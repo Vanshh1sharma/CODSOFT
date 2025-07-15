@@ -1,4 +1,4 @@
-# 💻 CODSOFT Internship Tasks – Python Programming 🐍
+# 💻 CODSOFT Internship Tasks – Python Programming🐍
 
 Welcome to my repository for the **CodSoft Python Internship**.  
 This repository contains all tasks completed during the internship, built using **Python** to demonstrate logic building, OOP, and basic file handling.
